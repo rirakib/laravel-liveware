@@ -8,7 +8,9 @@
 </head>
 <body>
     @livewire('show-posts',['name'=> 'Rakib'])
-    @livewire('show-posts',['name'=> 'Riyad'])
-    @livewire('show-posts',['name'=> 'Shakib'])
+
+    <p>data binding</p>
+
+
 </body>
 </html>

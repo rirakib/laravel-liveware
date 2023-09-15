@@ -7,7 +7,7 @@ use Livewire\Component;
 class ShowPosts extends Component
 {
     public $name;
-
+    public $message;
     public function mount($name)
     {
         $this->name = $name;
